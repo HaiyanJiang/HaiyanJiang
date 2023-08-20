@@ -7,7 +7,8 @@
     - ⏲️ Change-Point Detection in Time Series: Seeking hidden patterns in temporal 
 
 - 👀🤝Open to collaboration on AI topics: SNNs, GNNs, Semi-Supervised Learning, Transfer Learning.
-- 📧📫Connect with me via email: [Your Email Address]"
+- 📧📫Connect with me via email: **jianghaiyan.cn@gmail.com**.
+
 
 
 <!---
