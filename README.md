@@ -1,16 +1,21 @@
-- 👋 Hi, I'm **@HaiyanJiang** | Ph.D. in Statistics 🎓 | Currently Postdoc in **Machine Learning Department @ MBZUAI** 🤖 | Former **Research Scientist** @ Baidu Research's Big Data Lab 📚 | Visiting Researcher @ HKUST 🌏 | Passionate about **energy-efficient AI**🔋and **distributed computing** 🌐, with a focus on **Spiking Neural Networks (SNNs).** ⚡|
+- **@HaiyanJiang**  Ph.D. in Statistics 🎓
+- Currently Postdoc in **Machine Learning Department @ MBZUAI**
+- Former **Research Scientist** @ Baidu Research's Big Data Lab
+- Visiting Researcher @ HKUST
 
-- ✨👍💞️🌱 Currently delving into:
-    - 🧠 SNNs: Developing directly trained methods and ANN-SNN conversion techniques
-    - 🕸️ Graph Neural Networks: Exploring graph-based learning
-    - 🔍 Self-supervised Learning: Self-supervised Representation Learning
-    - 🔄 Transfer Learning: Bridging knowledge gaps
-    - 📈 Change-Point Detection in Time Series: Seeking hidden patterns in temporal 
+Passionate about **energy-efficient AI** and **distributed computing**, with a focus on **Spiking Neural Networks (SNNs).** 
+
+- Current research interest:
+    - SNNs: Developing directly trained methods and ANN-SNN conversion techniques
+    - Graph Neural Networks: Exploring graph-based learning
+    - Self-supervised Learning: Self-supervised Representation Learning
+    - Transfer Learning: Bridging knowledge gaps
+    - Change-Point Detection in Time Series: Seeking hidden patterns in temporal 
 
 
-- 👀🤝 Open to collaboration: SNNs, GNNs, Self-supervised Learning, Transfer Learning, Optimization.
+- 🤝 Open to collaboration: SNNs, GNNs, Self-supervised Learning, Transfer Learning, Optimization.
 
-- 📧📫 Reach me via email: **jianghaiyan.cn@gmail.com**.
+- 📫 Reach me via email: **jianghaiyan.cn@gmail.com**.
 
 
 
