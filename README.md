@@ -1,21 +1,22 @@
 - **@HaiyanJiang**  Ph.D. in Statistics 🎓
-- Currently Postdoc in **Machine Learning Department @ MBZUAI**
+- Currently Postdoc Research Associate in **Engineering Division @ New York University (Abu Dhabi)**
+- Former Postdoc Research Fellow in **Machine Learning Department @ MBZUAI**
 - Former **Research Scientist** @ Baidu Research's Big Data Lab
 - Visiting Researcher @ HKUST
 
-Passionate about **energy-efficient AI** and **distributed computing**, with a focus on **Spiking Neural Networks (SNNs).** 
+Passionate about **energy-efficient AI** and **distributed computing**, with a focus on **ML Security, Backdoors in Federated Learning, Machine Unlearning.** 
 
 - Current research interest:
-    - SNNs: Developing directly trained methods and ANN-SNN conversion techniques
+    - ML Privacy and Security, Backdoors in Federated Learning (FL), Machine Unlearning
+    - Spiking Neural Networks (SNNs): Developing directly trained methods and ANN-SNN conversion techniques
+    - Self-Supervised Learning (SSL): Self-supervised Representation Learning
     - Graph Neural Networks: Exploring graph-based learning
-    - Self-supervised Learning: Self-supervised Representation Learning
-    - Transfer Learning: Bridging knowledge gaps
     - Change-Point Detection in Time Series: Seeking hidden patterns in temporal 
 
 
-- 🤝 Open to collaboration: SNNs, GNNs, Self-supervised Learning, Transfer Learning, Optimization.
+- 🤝 Open to collaboration: FL, Privacy and Security, Machine Unlearning, Self-Supervised Learning, GNNs, SNNs
 
-- 📫 Reach me via email: **jianghaiyan.cn@gmail.com**.
+- 📫 Reach out via email: **jianghaiyan.cn@gmail.com**.
 
 
 
