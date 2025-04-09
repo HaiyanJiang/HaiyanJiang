@@ -4,12 +4,12 @@
 - Former **Research Scientist** @ Baidu Research's Big Data Lab
 - Visiting Researcher @ HKUST
 
-Passionate about **energy-efficient AI** and **distributed computing**, with a focus on **ML Security, Backdoors in Federated Learning, Machine Unlearning.** 
+Passionate about **energy-efficient AI** and **decentralized learning**, with a focus on **ML Security, Backdoors in Federated Learning, Machine Unlearning.** 
 
 - Current research interest:
     - ML Privacy and Security, Backdoors in Federated Learning (FL), Machine Unlearning
+    - Self-Supervised Learning (SSL): Privacy-preserving Self-supervised Representation Learning
     - Spiking Neural Networks (SNNs): Developing directly trained methods and ANN-SNN conversion techniques
-    - Self-Supervised Learning (SSL): Self-supervised Representation Learning
     - Graph Neural Networks: Exploring graph-based learning
     - Change-Point Detection in Time Series: Seeking hidden patterns in temporal 
 
